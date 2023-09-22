@@ -6,8 +6,7 @@ Java
 C#
 C++
 turbo C
-VB.net python.
-
+VB.net python
 <!--
 **Khail0119/Khail0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
